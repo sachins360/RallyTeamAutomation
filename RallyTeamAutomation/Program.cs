@@ -15,7 +15,7 @@ namespace RallyTeam
             s = null;
             sb.Append("Value: ");
             if (s != null) sb.Append(s);
-            Console.WriteLine("sb: "+sb) ;
+            Console.WriteLine("sb:  "+sb) ;
 
         }
     }
